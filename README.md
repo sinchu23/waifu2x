@@ -13,12 +13,7 @@ Click to see the slide show.
 
 ![slide](https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png)
 
-## References
-
-waifu2x is inspired by SRCNN [1]. 2D character picture (HatsuneMiku) is licensed under CC BY-NC by piapro [2].
-
-- [1] Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, "Image Super-Resolution Using Deep Convolutional Networks", http://arxiv.org/abs/1501.00092
-- [2] "For Creators", http://piapro.net/en_for_creators.html
+Check this out and have fun...Know all the characters and there cuteness. All the cutie  charcater in Little Busters is that Kud is the most unique one. Her favourite phrase in the anime is "Wafu!". Kud's name Kudryavka is a Russian name which means "Little Curly". I also loved Kud, so cutie and tiny and I found it very twee when she says "WAFU https://qualityseopackages.com/
 
 ## Public AMI
 ```
